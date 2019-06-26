@@ -1,0 +1,2 @@
+for calling getInfo.jsp you need to have StudInfo.class file at
+C:\Program Files\Apache Software Foundation\Tomcat 8.5\work\Catalina\localhost\studInfoV2\org\apache\jsp
